@@ -6,8 +6,8 @@
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="navbar-inline">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
         </ul>
     </div>
 </div>
